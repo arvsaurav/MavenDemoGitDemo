@@ -11,6 +11,8 @@ public class TestCalc {
 		int sum = c.addNos(1000, 200);
 		System.out.println(sum);
 		
+		System.out.println("New line added");
+		
 	}
 
 }
